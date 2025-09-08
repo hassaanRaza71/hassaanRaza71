@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=16F700&multiline=true&width=435&lines=printing%E2%80%A6;Hello+World!%F0%9F%91%8B++I+am+Hassaan+Raza.)](https://git.io/typing-svg)
+
 # 💫 About Me:
 🛠 I’m currently working on learning Python and building small coding projects<br>🤝 I’m looking to collaborate on fun coding challenges and beginner projects<br>🙋‍♂️ I’m looking for help with improving my problem-solving skills<br>🌱 I’m currently learning web development and data science basics<br>💬 Ask me about tech, coding, or my favorite productivity apps<br>⚡ Fun fact: I can spend hours debugging but still love it!<br>
 
