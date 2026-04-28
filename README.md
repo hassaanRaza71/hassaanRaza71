@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
 <p align="left">
-🛠 I’m currently working on learning Python and building small coding projects<br>🤝 I’m looking to collaborate on fun coding challenges and beginner projects<br>🙋‍♂️ I’m looking for help with improving my problem-solving skills<br>🌱 I’m currently learning web development and networking basics<br>💬 Ask me about tech, coding, or my favorite productivity apps<br>⚡ Fun fact: I can spend hours debugging but still love it!<br>
+🛠 I’m currently working on learning Python and building small coding projects<br>🤝 I’m looking to collaborate on fun coding challenges and beginner projects<br>🙋‍♂️ I’m looking for help with improving my problem-solving skills<br>🌱 I’m currently learning web development and networking basics<br>💬 Ask me about tech, coding, or my favorite productivity apps<br>
 
 
 ## 🌐 Socials:
