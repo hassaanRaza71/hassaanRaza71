@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=16F700&multiline=true&width=435&lines=printing%E2%80%A6;Hello+World!%F0%9F%91%8B++I+am+Hassaan+Raza.)](https://git.io/typing-svg)
 
-# 💫 About Me:
+#About Me:
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 
