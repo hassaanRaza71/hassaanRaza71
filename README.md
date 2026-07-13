@@ -1,4 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=16F700&multiline=true&width=435&lines=printing%E2%80%A6;Hello+World!%F0%9F%91%8B++I+am+Hassaan+Raza.)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassaanRaza71/hassaanRaza71/main/assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassaanRaza71/hassaanRaza71/main/assets/light.svg">
+  <img alt="Hassaan Raza" src="https://raw.githubusercontent.com/hassaanRaza71/hassaanRaza71/main/assets/dark.svg" width="100%">
+</picture>
 
 # About Me:
 
