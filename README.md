@@ -5,11 +5,10 @@
 </picture>
 
 # About Me:
-
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
 <p align="left">
-🛠 I’m currently working on learning Python and building small coding projects<br>🤝 I’m looking to collaborate on fun coding challenges and beginner projects<br>🙋‍♂️ I’m looking for help with improving my problem-solving skills<br>🌱 I’m currently learning web development and networking basics<br>💬 Ask me about tech, coding, or my favorite productivity apps<br>
+🎓 2nd year CS undergrad at FAST-NUCES Karachi, graduating 2029<br>🧠 Focused on Generative AI, Agentic AI, and Cybersecurity<br>🛠 Currently building AI/automation pipelines with n8n, and shipping tools like the Fix the Flex Chrome extension for FAST-NUCES students<br>🤖 Exploring RAG-based systems, LLM workflows, and agentic architectures<br>🧑‍🏫 Online tutor for IGCSE/O-Level Mathematics, Additional Mathematics, and Computer Science<br>🤝 Open to collaborating on AI, automation, and open-source projects<br>
+<p align="left">
 
 
 ## 🌐 Socials:
