@@ -3,6 +3,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassaanRaza71/hassaanRaza71/main/assets/light.svg?v=2">
   <img alt="Hassaan Raza" src="https://raw.githubusercontent.com/hassaanRaza71/hassaanRaza71/main/assets/dark.svg?v=2" width="100%">
 </picture>
+
 # About Me:
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 <p align="left">
