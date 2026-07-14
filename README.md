@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassaanRaza71/hassaanRaza71/main/assets/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassaanRaza71/hassaanRaza71/main/assets/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hassaanRaza71/hassaanRaza71/main/assets/dark.svg?v=2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hassaanRaza71/hassaanRaza71/main/assets/light.svg?v=2">
   <img alt="Hassaan Raza" src="https://raw.githubusercontent.com/hassaanRaza71/hassaanRaza71/main/assets/dark.svg" width="100%">
 </picture>
 
