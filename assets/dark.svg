@@ -198,7 +198,7 @@
         <text x="500" y="212" font-size="19" fill="#F8FAFC" font-weight="600">Cybersecurity Enthusiast</text>
       </g>
       <rect x="500" y="196" width="3" height="20" fill="#22D3EE">
-        <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="1;0;1" dur="0.5s" repeatCount="indefinite"/>
       </rect>
     </g>
 
