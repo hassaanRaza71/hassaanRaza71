@@ -186,12 +186,8 @@
         <tspan fill="#7C3AED">$</tspan><tspan dx="8" fill="#94A3B8">whoami</tspan>
       </text>
 
-      <g clip-path="url(#clipP1)">
-        <text x="500" y="212" font-size="19" fill="#F8FAFC" font-weight="600">Frontend Engineer</text>
-      </g>
-      <g clip-path="url(#clipP2)">
-        <text x="500" y="212" font-size="19" fill="#F8FAFC" font-weight="600">Full Stack Developer</text>
-      </g>
+      
+      
       <g clip-path="url(#clipP3)">
         <text x="500" y="212" font-size="19" fill="#F8FAFC" font-weight="600">Open Source Contributor</text>
       </g>
